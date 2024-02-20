@@ -1,6 +1,6 @@
 \pagename{Contact}
 
-# Contact
+\header{Contact}
 
 \menu
 

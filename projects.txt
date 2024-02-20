@@ -1,13 +1,13 @@
 \pagename{Projects}
 
-# Projects
+\header{Projects}
 
 \menu
 
-## Academic Projects
+# Academic Projects
 
 Here are my academic projects!
 
-## Independent Projects
+# Independent Projects
 
 Here are some of my independent projects!

@@ -1,15 +1,22 @@
 \pagename{Home}
 
-# Joseph Hobbs
+\header{\href{Joseph Hobbs}{/}}
 
 \menu
 
 Hello!  Thank you for visiting my website!
 
-## Academic Projects
+# Academic Projects
 
 Here are my academic projects!
 
-## Independent Projects
+\tiles{
+    \tile{Test}{/media/test.jpg}{/projects/test}
+    \tile{Test}{/media/test.jpg}{/projects/test}
+    \tile{Test}{/media/test.jpg}{/projects/test}
+    \tile{Test}{/media/test.jpg}{/projects/test}
+}
+
+# Independent Projects
 
 Here are some of my independent projects!

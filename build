@@ -3,4 +3,4 @@
 # Joseph's Personal Website
 # Build Script
 
-weblog build . --menu menu.html --style truth
+weblog build . --menu menu.html --style tech
