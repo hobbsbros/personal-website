@@ -1,0 +1,7 @@
+\pagename{About}
+
+\header{About}
+
+\menu
+
+Learn more about Joseph here!
