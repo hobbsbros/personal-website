@@ -1,6 +1,6 @@
 \pagename{Home}
 
-\header{\href{Joseph Hobbs}{/}}
+\header{Joseph Hobbs}
 
 \menu
 
