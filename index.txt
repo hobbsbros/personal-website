@@ -1,8 +1,8 @@
 \pagename{Home}
 
-\menu
-
 # Joseph Hobbs
+
+\menu
 
 Hello!  Thank you for visiting my website!
 
