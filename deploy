@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Joseph's Personal Website
+# Deploy Script
+
+# Recompile site
+weblog build . --sitename "Joseph R. Hobbs" --menu menu.html --style tech
+
+# Stage changes for commit
+git add .
+
+# Commit changes
+git commit
+
+# Push changes to GitHub Actions
+git push
