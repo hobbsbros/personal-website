@@ -4,4 +4,16 @@
 
 \menu
 
+# About Me
+
 Learn more about Joseph here!
+
+# Credits
+
+## Fonts
+
+The \href{Jura}{https://fonts.google.com/specimen/Jura/about} font was designed by Daniel Johnson and Cyreal and is used under the \href{Open Font License}{https://openfontlicense.org/}.
+
+## Images
+
+Unless otherwise indicated, all images are in the public domain.
