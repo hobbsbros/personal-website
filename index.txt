@@ -11,10 +11,7 @@ Hello!  Thank you for visiting my website!
 Here are my academic projects!
 
 \tiles{
-    \tile{Test}{/media/test.jpg}{/projects/test}
-    \tile{Test}{/media/test.jpg}{/projects/test}
-    \tile{Test}{/media/test.jpg}{/projects/test}
-    \tile{Test}{/media/test.jpg}{/projects/test}
+    \tile{Carlo}{/media/code.jpg}{/projects/carlo}
 }
 
 # Independent Projects
