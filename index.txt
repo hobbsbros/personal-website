@@ -1,0 +1,15 @@
+\pagename{Home}
+
+\menu
+
+# Joseph Hobbs
+
+Hello!  Thank you for visiting my website!
+
+## Academic Projects
+
+Here are my academic projects!
+
+## Independent Projects
+
+Here are some of my independent projects!

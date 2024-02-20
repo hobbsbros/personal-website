@@ -1,0 +1,7 @@
+\pagename{Contact}
+
+# Contact
+
+\menu
+
+Contact me at \href{jrhobbs@mit.edu}{mailto:jrhobbs@mit.edu}.
