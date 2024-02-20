@@ -8,6 +8,7 @@ body {
     margin: 0% 20%;
     font-size: 24px;
     font-family: "Jura", sans-serif;
+    padding-bottom: 80px;
 }
 
 h1 {
@@ -44,19 +45,11 @@ h2::before {
 }
 
 h3 {
-    background-color: white;
-}
-
-h4 {
-    background-color: white;
-}
-
-h5 {
-    background-color: white;
-}
-
-h6 {
-    background-color: white;
+    color: black;
+    font-size: 30px;
+    font-family: monospace;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 a {
