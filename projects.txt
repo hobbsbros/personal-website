@@ -1,0 +1,11 @@
+\pagename{Projects}
+
+\menu
+
+# Academic Projects
+
+Here are my academic projects!
+
+# Independent Projects
+
+Here are some of my independent projects!
