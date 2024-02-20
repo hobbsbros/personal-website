@@ -59,7 +59,7 @@ a {
 }
 
 a:visited {
-    color: var(--spaceblue);
+    color: var(--flamered);
 }
 
 div.tiles {
