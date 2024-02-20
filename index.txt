@@ -11,7 +11,7 @@ Hello!  Thank you for visiting my website!
 Here are my academic projects!
 
 \tiles{
-    \tile{Carlo}{/media/code.jpg}{/projects/carlo}
+    \tile{The Carlo Language}{/media/code.jpg}{/projects/carlo}
 }
 
 # Independent Projects
