@@ -1,0 +1,6 @@
+\pagename{EZWordle}
+
+\header{EZWordle}
+
+\menu
+

@@ -6,12 +6,12 @@
 
 # Academic Projects
 
-Here are my academic projects!
+Below is a collection of the projects I've worked on in the classroom.
 
 # Independent Projects
 
 Below are a number of projects I've worked on outside of the academic environment.
 
 \tiles{
-    \tile{The Carlo Language}{/media/code.jpg}{/projects/carlo}
+    \tile{Carlo}{/media/code.jpg}{/projects/carlo}
 }

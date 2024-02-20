@@ -8,12 +8,12 @@ Hello!  Thank you for visiting my website!
 
 # Academic Projects
 
-Here are my academic projects!
-
-\tiles{
-    \tile{The Carlo Language}{/media/code.jpg}{/projects/carlo}
-}
+Here are some interesting engineering and design projects I've worked on in school that I found fascinating.
 
 # Independent Projects
 
-Here are some of my independent projects!
+These are some of my favorite independent projects.
+
+\tiles{
+    \tile{Carlo}{/media/code.jpg}{/projects/carlo}
+}

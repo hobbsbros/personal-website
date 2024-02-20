@@ -1,0 +1,6 @@
+\pagename{Boron}
+
+\header{Boron}
+
+\menu
+

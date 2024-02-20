@@ -1,0 +1,6 @@
+\pagename{Argentum}
+
+\header{Argentum}
+
+\menu
+
