@@ -4,4 +4,4 @@
 
 \menu
 
-Contact me at \href{jrhobbs@mit.edu}{mailto:jrhobbs@mit.edu}.
+Contact me at \href{me@josephrhobbs.com}{mailto:me@josephrhobbs.com}.
