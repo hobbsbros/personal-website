@@ -7,3 +7,5 @@
 ~ In the fall of my junior year of college, I had the privilege of taking MIT's undergraduate aerodynamics course (known to my fellow students simply as 16.100 or "sixteen one hundred") taught by MIT Professor Qiqi Wang.
 
 ~ During the course, we learned extensively about models for aircraft drag...
+
+~ Furthermore, we made extensive use of AVL (Athena Vortex Lattice), a program developed about thirty years ago by MIT Professor Mark Drela.

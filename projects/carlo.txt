@@ -22,7 +22,9 @@
 
 # Interpreter Structure
 
-~ The Carlo Language is an interpreted programming language, and as such, it requires an interpreter...
+~ The Carlo Language is an interpreted programming language, and as such, it requires an interpreter.  I selected the Rust Programming Language for this task.  Its robust balance of speed and memory safety made it a strong candidate for the task.
+
+~ 
 
 # Planned Improvements
 
