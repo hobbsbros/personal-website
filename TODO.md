@@ -2,7 +2,7 @@
 
 ## Style
 [ ] Add light blue banner
-[ ] Update menu button style
-[ ] Update tile hover animation
-[ ] Update header font to Outfit
-[ ] Update text font to Garamond
+[x] Update menu button style
+[x] Update tile hover animation
+[x] Update header font to Outfit
+[x] Update text font to Garamond
