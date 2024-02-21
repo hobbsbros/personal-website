@@ -1,0 +1,6 @@
+\pagename{Blotch}
+
+\header{Blotch}
+
+\menu
+
