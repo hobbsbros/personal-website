@@ -1,0 +1,6 @@
+\pagename{Blog Builder}
+
+\header{Blog Builder}
+
+\menu
+

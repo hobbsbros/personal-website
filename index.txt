@@ -4,15 +4,15 @@
 
 \menu
 
-Hello!  Thank you for visiting my website!
+~ Hello!  Thank you for visiting my website!
 
 # Academic Projects
 
-Here are some interesting engineering and design projects I've worked on in school that I found fascinating.
+~ Here are some interesting engineering and design projects I've worked on in school that I found fascinating.
 
 # Independent Projects
 
-These are some of my favorite independent projects.
+~ These are some of my favorite independent projects.
 
 \tiles{
     \tile{Carlo}{/media/code.jpg}{/projects/carlo}
