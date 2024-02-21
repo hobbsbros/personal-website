@@ -8,6 +8,12 @@
 
 ~ Learn more about Joseph here!
 
+\code{rust}{
+    fn main() {
+        println!("Hello, world!");
+    }
+}
+
 # Credits
 
 ## Fonts
@@ -15,6 +21,8 @@
 ~ The \href{Outfit}{https://fonts.google.com/specimen/Outfit/about} font was designed by Smartsheet Inc. and Rodrigo Fuenzalida and is used under the \href{Open Font License}{https://openfontlicense.org/}.
 
 ~ The \href{EB Garamond}{https://fonts.google.com/specimen/EB+Garamond/about} font was designed by Georg Duffner and Octavio Pardo and is also used under the \href{Open Font License}{https://openfontlicense.org/}.
+
+~ Code syntax highlighting is done by \href{Prism}{https://prismjs.com/}.
 
 ## Images
 
