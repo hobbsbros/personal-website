@@ -134,3 +134,7 @@ a.tile {
 h6.footer {
     background-color: white;
 }
+
+pre {
+    border-radius: 12px;
+}

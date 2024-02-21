@@ -8,7 +8,7 @@
 
 ~ Learn more about Joseph here!
 
-\code{rust}{about.html}
+\code{rust}{/code/sample.rs}
 
 # Credits
 
