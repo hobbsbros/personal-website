@@ -8,11 +8,7 @@
 
 ~ Learn more about Joseph here!
 
-\code{rust}{
-    fn main() {
-        println!("Hello, world!");
-    }
-}
+\code{rust}{about.html}
 
 # Credits
 
