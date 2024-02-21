@@ -1,0 +1,11 @@
+\pagename{404 Not Found}
+
+\header{Joseph Hobbs}
+
+\menu
+
+# 404
+
+~ I'm sorry... it appears the page you are looking for does not exist.
+
+~ You may return to the home page \href{here}{/}.
