@@ -4,3 +4,6 @@
 
 \menu
 
+~ In the fall of my junior year of college, I had the privilege of taking MIT's undergraduate aerodynamics course (known to my fellow students simply as 16.100 or "sixteen one hundred") taught by MIT Professor Qiqi Wang.
+
+~ During the course, we learned extensively about models for aircraft drag...

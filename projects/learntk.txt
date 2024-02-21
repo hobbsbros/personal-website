@@ -4,3 +4,22 @@
 
 \menu
 
+~ Since my high school years, I always had a fascination for machine learning, though I was never very good at it.
+
+~ Right before I started my freshman year of college and after years of attempts, I successfully developed my very first neural network from scratch.  It was agonizingly slow.  Training on an extremely simple dataset took several seconds or even minutes as opposed to milliseconds.
+
+~ The problem was that I refused to use NumPy and I didn't know any other programming languages besides Python, so I was stuck implementing every mathematical operation in pure Python, which slowed down my calculations by orders of magnitude.
+
+~ After my freshman year of college, I took an interest in the Rust programming language, and after learning it sufficiently, I had the skills necessary to try again.  Rust is far faster than Python and almost as fast as C++ by most metrics, so I was confident that I could develop a simple neural network model to train reasonably fast.
+
+~ After reading my old code for inspiration and guidance, as well as a bit of head-scratching and debugging, the Machine Learning Tool Kit (LearnTK) became a reality.
+
+# Structure
+
+# Speed
+
+# Source Code
+
+~ LearnTK is completely open-source and licensed under the MIT license.  Its source code is available on GitHub.
+
+~ \href{https://github.com/hobbsbros/learntk}{https://github.com/hobbsbros/learntk}

@@ -28,12 +28,12 @@
 
 ~ The Carlo Language is constantly under improvement...
 
-# Source Code
-
-~ The Carlo Language is licensed under the MIT License and its source code is available on GitHub.
-
-~ \href{https://github.com/hobbsbros/carlo}{https://github.com/hobbsbros/carlo}
-
 # What's in a Name?
 
 ~ The Carlo Language is named for Blessed Carlo Acutis, ...
+
+# Source Code
+
+~ The Carlo Language is open-source and licensed under the MIT License.  Its source code is available on GitHub.
+
+~ \href{https://github.com/hobbsbros/carlo}{https://github.com/hobbsbros/carlo}
