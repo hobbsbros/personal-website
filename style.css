@@ -62,6 +62,10 @@ a:visited {
     color: var(--flamered);
 }
 
+p {
+    line-height: 40px;
+}
+
 div.tiles {
     margin-top: 20px;
     margin-bottom: 20px;
