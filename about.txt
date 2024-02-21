@@ -8,8 +8,6 @@
 
 ~ Learn more about Joseph here!
 
-\code{rust}{code/sample.rs}
-
 # Credits
 
 ## Fonts
