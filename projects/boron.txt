@@ -1,6 +1,6 @@
-\pagename{Boron}
+\pagename{The Boron Language}
 
-\header{Boron}
+\header{The Boron Language}
 
 \menu
 

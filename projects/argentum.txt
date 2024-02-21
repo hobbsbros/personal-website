@@ -1,6 +1,6 @@
-\pagename{Argentum}
+\pagename{Argentum Finance}
 
-\header{Argentum}
+\header{Argentum Finance}
 
 \menu
 
