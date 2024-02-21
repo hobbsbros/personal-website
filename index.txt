@@ -4,7 +4,9 @@
 
 \menu
 
-~ Hello!  Thank you for visiting my website!
+# About Me
+
+~ Click \href{About}{/about} to learn more about me.
 
 # Academic Projects
 
