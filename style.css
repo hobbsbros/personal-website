@@ -13,7 +13,6 @@ body {
 }
 
 h1 {
-    background-color: var(--babyblue);
     color: var(--spaceblue);
     font-size: 96px;
     display: flex;
@@ -87,6 +86,8 @@ a.tile {
     font-size: 30px;
     text-shadow: 0px 0px 8px black, -2px -2px 8px black, -2px 2px 8px black, 2px -2px 8px black, 2px 2px 8px black;
     transition: 0.4s;
+    font-family: "Outfit", sans-serif;
+    font-weight: 200;
 }
 
 a.tile:hover {
