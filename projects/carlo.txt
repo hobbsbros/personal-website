@@ -15,3 +15,25 @@
 ~ Over the next year, I slowly came up with an idea for a project that had a potential application in my academic work.  I wanted an interpreted language that enabled symbolic manipulation of mathematical expressions.
 
 ~ Furthermore, I wanted to be able to manipulate dimensioned quantities... I could never remember if I was working in kilograms or grams, feet or meters, or newtons or pounds, and so I wanted my language to simply tell me.  So during the Christmas break of my junior year of college, I finally buckled down and began developing the Carlo language.
+
+# Vision
+
+~ The Carlo Language began with a simple vision: the "engineer's calculator."  This meant that Carlo had to be able to effectively handle both numeric and symbolic manipuation.  Furthermore, to stand out from its peers, Carlo had to have dimensioned quantities, which proved a unique challenge in development.
+
+# Interpreter Structure
+
+~ The Carlo Language is an interpreted programming language, and as such, it requires an interpreter...
+
+# Planned Improvements
+
+~ The Carlo Language is constantly under improvement...
+
+# Source Code
+
+~ The Carlo Language is licensed under the MIT License and its source code is available on GitHub.
+
+~ \href{https://github.com/hobbsbros/carlo}{https://github.com/hobbsbros/carlo}
+
+# What's in a Name?
+
+~ The Carlo Language is named for Blessed Carlo Acutis, ...
