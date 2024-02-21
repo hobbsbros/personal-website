@@ -4,12 +4,12 @@
 
 \menu
 
-When I was in high school, I learned how to code in Python.  I found the simple and self-documenting syntax fascinating and inspiring, and ever since I've always aspired to develop a programming language.
+~ When I was in high school, I learned how to code in Python.  I found the simple and self-documenting syntax fascinating and inspiring, and ever since I've always aspired to develop a programming language.
 
-Unfortunately, in my naivety, I didn't realize the great complexity and difficulty of the task I wanted to undertake.  Nearly six years would pass before I was successful in developing my first working programming language, \href{Boron}{/projects/boron}.
+~ Unfortunately, in my naivety, I didn't realize the great complexity and difficulty of the task I wanted to undertake.  Nearly six years would pass before I was successful in developing my first working programming language, \href{Boron}{/projects/boron}.
 
-However, despite my satisfaction, I found absolutely no application for the Boron language, because it was simply C with different syntax.  I had no use for C... I was not a software developer by training, and I didn't care for its clunky methods for memory management.
+~ However, despite my satisfaction, I found absolutely no application for the Boron language, because it was simply C with different syntax.  I had no use for C... I was not a software developer by training, and I didn't care for its clunky methods for memory management.
 
-Several months later, I found an application for my newfound understanding of computer language development, and I developed \href{Elemental}{/projects/elemental}, a simple matrix processing program.  But Elemental too suffered the same pitfall.  It was no different than MATLAB, except that it had less than ten built-in functions and it was agonizingly slow.
+~ Several months later, I found an application for my newfound understanding of computer language development, and I developed \href{Elemental}{/projects/elemental}, a simple matrix processing program.  But Elemental too suffered the same pitfall.  It was no different than MATLAB, except that it had less than ten built-in functions and it was agonizingly slow.
 
-Over the next year, I slowly came up with an idea for a project that had a potential application in my academic work.  During my junior year's Christmas break, ...
+~ Over the next year, I slowly came up with an idea for a project that had a potential application in my academic work.  During my junior year's Christmas break, ...
