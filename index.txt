@@ -4,10 +4,6 @@
 
 \menu
 
-# About Me
-
-~ Click \href{About}{/about} to learn more about me.
-
 # Academic Projects
 
 ~ Here are some interesting engineering and design projects I've worked on in school that I found fascinating.
