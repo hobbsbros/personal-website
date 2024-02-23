@@ -141,4 +141,7 @@ pre {
 
 img {
     border-radius: 12px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    width: 100%;
 }
