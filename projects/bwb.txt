@@ -1,6 +1,10 @@
-\pagename{Blended Wing Body Aircraft}
+\pagename{Blended Wing Body}
 
-\header{Blended Wing Body Aircraft}
+\header{Blended Wing Body}
 
 \menu
+
+~ While taking MIT's undergraduate course in Aerodynamics (known among MIT students as 16.100), I was assigned to a project team and instructed to design a Blended-Wing Body aircraft, much like the one below.
+
+\img{/media/bwb.jpg}{Blended Wing Body}
 
