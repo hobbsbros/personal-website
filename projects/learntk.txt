@@ -4,6 +4,8 @@
 
 \menu
 
+\date
+
 ~ Since my high school years, I always had a fascination for machine learning, though I was never very good at it.
 
 ~ Right before I started my freshman year of college and after years of attempts, I successfully developed my very first neural network from scratch.  It was agonizingly slow.  Training on an extremely simple dataset took several seconds or even minutes as opposed to milliseconds.

@@ -4,6 +4,8 @@
 
 \menu
 
+\date
+
 ~ While taking MIT's undergraduate course in aerodynamics (known among MIT students as 16.100), I was assigned to a project team and instructed to design a Blended Wing Body aircraft, much like the one below.
 
 \img{/media/bwb-example.jpg}{Blended Wing Body}
