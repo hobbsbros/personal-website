@@ -22,11 +22,11 @@
 
 ~ The following represents a very simple Boron program.
 
-\code{text}{/code/test-boron.brn}
+\code{text}{code/test-boron.brn}
 
 ~ This compiles to the following C code.
 
-\code{c}{/code/test-boron.c}
+\code{c}{code/test-boron.c}
 
 ~ The reader notes a few things here... firstly, the Boron compiler automatically imports two commonly used C header files (\it{stdio} and \it{stdbool}), and secondly, it segregates struct and function definitions.
 
