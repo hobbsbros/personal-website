@@ -51,6 +51,17 @@ h3 {
     font-family: monospace;
     margin-top: 20px;
     margin-bottom: 20px;
+    font-family: "Outfit", sans-serif;
+}
+
+h6 {
+    color: var(--spaceblue);
+    display: flex;
+    justify-content: center;
+    font-family: "Outfit", sans-serif;
+    font-size: 24px;
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
 
 a {
