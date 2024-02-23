@@ -18,4 +18,5 @@
 
 \tiles{
     \tile{Carlo}{/media/code.jpg}{/projects/carlo}
+    \tile{Boron}{/media/code.jpg}{/projects/boron}
 }
