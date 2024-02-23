@@ -20,6 +20,8 @@
 
 ~ The Carlo Language began with a simple vision: the "engineer's calculator."  This meant that Carlo had to be able to effectively handle both numeric and symbolic manipuation.  Furthermore, to stand out from its peers, Carlo had to have dimensioned quantities, which proved a unique challenge in development.
 
+~ In pursuit of the vision for the Carlo Language, I also implemented a LaTeX output feature, which would first evaluate a Carlo file and then typeset its results using LaTeX.  See the \it{Example} section for an example.
+
 # Interpreter Structure
 
 ~ The Carlo Language is an interpreted programming language, and as such, it requires an interpreter.  I selected the Rust Programming Language for this task.  Its robust balance of speed and memory safety made it a strong candidate for the task.
@@ -27,6 +29,20 @@
 # Language Features
 
 ~ The Carlo Language currently includes support for basic arithmetic operations, many commonly used SI units and prefixes, and basic symbolic operations.
+
+# Example
+
+~ The following code snippet represents some of the Carlo Language's capabilities.
+
+\code{text}{code/test-carlo.cl}
+
+~ This produces the following plaintext output.
+
+\code{text}{code/test-carlo.txt}
+
+~ The Carlo interpreter can also produce the following LaTeX output.
+
+\code{tex}{code/test-carlo.tex}
 
 # Planned Improvements
 

@@ -28,13 +28,13 @@
 
 \code{c}{code/test-boron.c}
 
-~ The reader notes a few things here... firstly, the Boron compiler automatically imports two commonly used C header files (\it{stdio} and \it{stdbool}), and secondly, it segregates struct and function definitions.
-
-~ This second feature was included to ensure that structs did not have to be defined before functions.
+~ The reader notes a few things here... firstly, the Boron compiler automatically imports two commonly used C header files (\it{stdio} and \it{stdbool}), and secondly, it segregates struct and function definitions.  This second feature was included to ensure that structs did not have to be defined before functions.
 
 # Planned Improvements
 
 ~ My academic work and extracurricular obligations keep me pretty busy, so the Boron language is not currently under active development and no improvements are planned in the near future.
+
+~ However, future improvements to Boron may include the expansion of its object-oriented capabilities as well as LLVM support.
 
 # Source Code
 

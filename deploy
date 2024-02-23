@@ -4,7 +4,7 @@
 # Deploy Script
 
 # Recompile site
-weblog build . --sitename "Joseph R. Hobbs" --menu menu.html --style tech
+./build
 
 # Stage changes for commit
 git add .

@@ -23,9 +23,98 @@
 <p>Several months later, I found an application for my newfound understanding of computer language development, and I developed <a href="/projects/elemental">Elemental</a> , a simple matrix processing program.  But Elemental too suffered the same pitfall as Boron... it was not unique.  Elemental was no different than MATLAB, except that Elemental had less than ten built-in functions and was agonizingly slow.
 <p>Over the next year, I slowly came up with an idea for a project that had a potential application in my academic work.  I wanted an interpreted language that enabled symbolic manipulation of mathematical expressions.
 <p>Furthermore, I wanted to be able to manipulate dimensioned quantities... I could never remember if I was working in kilograms or grams, feet or meters, or newtons or pounds, and so I wanted my language to simply tell me.  So during the Christmas break of my junior year of college, I finally buckled down and began developing the Carlo language.<h2>Vision</h2>
-<p>The Carlo Language began with a simple vision: the "engineer's calculator."  This meant that Carlo had to be able to effectively handle both numeric and symbolic manipuation.  Furthermore, to stand out from its peers, Carlo had to have dimensioned quantities, which proved a unique challenge in development.<h2>Interpreter Structure</h2>
+<p>The Carlo Language began with a simple vision: the "engineer's calculator."  This meant that Carlo had to be able to effectively handle both numeric and symbolic manipuation.  Furthermore, to stand out from its peers, Carlo had to have dimensioned quantities, which proved a unique challenge in development.
+<p>In pursuit of the vision for the Carlo Language, I also implemented a LaTeX output feature, which would first evaluate a Carlo file and then typeset its results using LaTeX.  See the <em>Example</em> section for an example.<h2>Interpreter Structure</h2>
 <p>The Carlo Language is an interpreted programming language, and as such, it requires an interpreter.  I selected the Rust Programming Language for this task.  Its robust balance of speed and memory safety made it a strong candidate for the task.<h2>Language Features</h2>
-<p>The Carlo Language currently includes support for basic arithmetic operations, many commonly used SI units and prefixes, and basic symbolic operations.<h2>Planned Improvements</h2>
+<p>The Carlo Language currently includes support for basic arithmetic operations, many commonly used SI units and prefixes, and basic symbolic operations.<h2>Example</h2>
+<p>The following code snippet represents some of the Carlo Language's capabilities.<pre><code class="language-text">@ My Special Header
+
+~ This is a paragraph.
+
+# Comment
+
+let F_g = m * g
+
+let U = F_g * h
+
+let m = 10 kg
+
+let g = 9.81 m s_2
+
+let h = 10 m
+
+@ Evaluation
+
+!U
+U</code></pre>
+<p>This produces the following plaintext output.<pre><code class="language-text">MY SPECIAL HEADER
+===
+
+
+This is a paragraph.
+
+F_g = (m * g)
+U = (F_g * h)
+m = 10000.0000 g
+g = 9.8100 m s^-2
+h = 10.0000 m
+
+EVALUATION
+===
+
+U = ((m * g) * h)
+981.0000 J</code></pre>
+<p>The Carlo interpreter can also produce the following LaTeX output.<pre><code class="language-tex">\documentclass[12pt]{article}
+
+\usepackage[margin=1.0in]{geometry}
+
+\setlength\parindent{0pt}
+
+\begin{document}
+
+\title{\textbf{Test}}
+\author{Joseph Hobbs}
+\maketitle
+\tableofcontents
+
+
+\section{My Special Header}
+
+
+
+
+This is a paragraph.\par
+
+
+$$
+F_{g} := m g
+$$
+$$
+U := F_{g} h
+$$
+$$
+m := 10000.0000 \; \mathrm{g}
+$$
+$$
+g := 9.8100 \; \mathrm{m} \; \mathrm{s^{-2}}
+$$
+$$
+h := 10.0000 \; \mathrm{m}
+$$
+
+
+\section{Evaluation}
+
+
+$$
+U = (m g) h
+$$
+$$
+981.0000 \; \mathrm{J}
+$$
+
+
+\end{document}</code></pre><h2>Planned Improvements</h2>
 <p>The Carlo Language is constantly under improvement, and future iterations will include computer algebra system (CAS) support as well as matrix operations.<h2>What's in a Name?</h2>
 <p>The Carlo Language is named for Carlo Acutis, a Catholic web developer born in 1991.  He was both an extraordinarily generous and sensitive young man as well as a highly proficient computer programmer.  He passed away at the age of 15 from leukemia and was buried in Assisi, Italy.
 <p>Acutis was beatified by Pope Francis in 2020 and is celebrated and venerated among Catholics as a patron of computer programmers.
