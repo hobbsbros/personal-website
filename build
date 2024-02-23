@@ -3,4 +3,7 @@
 # Joseph's Personal Website
 # Build Script
 
-weblog build . --sitename "Joseph R. Hobbs" --menu menu.html --style tech
+weblog build . \
+    --sitename "Joseph R. Hobbs" \
+    --menu menu.html \
+    --style tech

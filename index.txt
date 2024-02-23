@@ -12,6 +12,10 @@
 
 ~ Here are some interesting engineering and design projects I've worked on in school that I found fascinating.
 
+\tiles{
+    \tile{BWB}{/media/bwb.jpg}{/projects/bwb}
+}
+
 # Independent Projects
 
 ~ These are some of my favorite independent projects.
