@@ -6,6 +6,8 @@
 
 # About Me
 
+\img{/media/me.jpg}{Joseph having breakfast}
+
 ~ Learn more about Joseph here!
 
 # Credits
