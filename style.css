@@ -158,3 +158,12 @@ img {
     margin-bottom: 16px;
     width: 100%;
 }
+
+img.floating {
+    border-radius: 12px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    max-height: 40%;
+    float: left;
+    margin-right: 24px;
+}
