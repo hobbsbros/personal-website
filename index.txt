@@ -19,5 +19,6 @@
 \tiles{
     \tile{Carlo}{/media/code.jpg}{/projects/carlo}
     \tile{Boron}{/media/code.jpg}{/projects/boron}
+    \tile{Blog Builder}{/media/code.jpg}{/projects/blog-builder}
     \tile{LearnTK}{/media/learntk.jpg}{/projects/learntk}
 }
