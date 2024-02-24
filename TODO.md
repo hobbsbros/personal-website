@@ -10,3 +10,16 @@
 ## About
 [ ] Add personal photo to About page
 [ ] Write About page
+
+## Project Pages
+[ ] Write Argentum Finance page
+[x] Write Blog Builder page
+[ ] Write Blotch page
+[x] Write Boron page
+[x] Write BWB page
+[x] Write Carlo page
+[ ] Write Elemental page
+[ ] Write EZWordle page
+[x] Write LearnTK page
+[ ] Write Mars Mission page
+[ ] Write RSVLM page

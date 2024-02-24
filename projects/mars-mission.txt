@@ -1,0 +1,7 @@
+\pagename{Mars Mission}
+
+\header{Mars Mission}
+
+\menu
+
+\date
