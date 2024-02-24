@@ -50,6 +50,8 @@
 
 \img{/media/bwb-simulation.png}{BWB CFD Simulation}
 
+~ The blue lines on the wings represent sudden changes in air pressure due to normal shock waves developed on the wing.  This problem could be resolved by further increasing the sweep angle of the wings.
+
 # Errors
 
 ~ During Part II, we used a simplified and inaccurate aerodynamic model to calculate the lift produced by the BWB.  We used an incompressible model, which did not account for the possibilities of shock waves developing on the aircraft.
