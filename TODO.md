@@ -8,8 +8,8 @@
 [x] Update text font to Garamond
 
 ## About
-[ ] Add personal photo to About page
-[ ] Write About page
+[x] Add personal photo to About page
+[x] Write About page
 
 ## Project Pages
 [ ] Write Argentum Finance page
