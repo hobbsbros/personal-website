@@ -14,13 +14,23 @@
 
 ~ During my time in college, as I became more proficient in programming, I discovered that I didn't like services like WordPress and Blogger.  I found that they had too many unnecessary features and too few features that I actually wanted.  Furthermore, I didn't like my inability to manage URL structure or page layout as I desired.
 
-~ For these reasons, I began developing my own web framework, called the Blog Builder.  It is this web framework that manages this website, as well as 
+~ For these reasons, I began developing my own web framework, called the Blog Builder.  Because this website is maanged by the Blog Builder, this catalog of my projects is itself one of my projects.
+
+# Development
+
+~ The Blog Builder framework is written in pure Rust 1.75.  I made this selection primarily out of a desire to improve my ability to write robust, reliable Rust code to perform a complex task (constructing a static website).
+
+# Features
+
+~ The Blog Builder currently supports plain text, hyperlinks, headers, menus, tiles, source code, images, italics, boldface, and footnotes.
 
 # Usage
 
 ~ I designed Blog Builder to be very simple to use.  Because it is built to serve static content, I write all of my webpages in text files and then pass them to the Blog Builder for compilation to HTML.
 
 ~ The following is the text file that represents the home page of this website.
+
+\code{text}{index.txt}
 
 # Source Code
 

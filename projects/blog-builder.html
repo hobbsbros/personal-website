@@ -23,9 +23,34 @@
 <p>This sounded like a complicated responsibility for a ten-year-old, but in reality it was no more complicated than pressing "Publish" on the Blogger website every night.  However, the job still sparked my interest in web development that would continue throughout my adolescent years.
 <p>When I was in high school, I would start two other websites: one a fitness blog for my high school's Junior ROTC program and another as a project for my class on Contemporary Issues.
 <p>During my time in college, as I became more proficient in programming, I discovered that I didn't like services like WordPress and Blogger.  I found that they had too many unnecessary features and too few features that I actually wanted.  Furthermore, I didn't like my inability to manage URL structure or page layout as I desired.
-<p>For these reasons, I began developing my own web framework, called the Blog Builder.  It is this web framework that manages this website, as well as<h2>Usage</h2>
+<p>For these reasons, I began developing my own web framework, called the Blog Builder.  Because this website is maanged by the Blog Builder, this catalog of my projects is itself one of my projects.<h2>Development</h2>
+<p>The Blog Builder framework is written in pure Rust 1.75.  I made this selection primarily out of a desire to improve my ability to write robust, reliable Rust code to perform a complex task (constructing a static website).<h2>Features</h2>
+<p>The Blog Builder currently supports plain text, hyperlinks, headers, menus, tiles, source code, images, italics, boldface, and footnotes.<h2>Usage</h2>
 <p>I designed Blog Builder to be very simple to use.  Because it is built to serve static content, I write all of my webpages in text files and then pass them to the Blog Builder for compilation to HTML.
-<p>The following is the text file that represents the home page of this website.<h2>Source Code</h2>
+<p>The following is the text file that represents the home page of this website.<pre><code class="language-text">\pagename{Home}
+
+\header{Joseph Hobbs}
+
+\menu
+
+# Academic Projects
+
+~ Here are some interesting engineering and design projects I've worked on in school that I found fascinating.
+
+\tiles{
+    \tile{BWB}{/media/bwb.jpg}{/projects/bwb}
+}
+
+# Independent Projects
+
+~ These are some of my favorite independent projects.
+
+\tiles{
+    \tile{Carlo}{/media/code.jpg}{/projects/carlo}
+    \tile{Boron}{/media/code.jpg}{/projects/boron}
+    \tile{Blog Builder}{/media/code.jpg}{/projects/blog-builder}
+    \tile{LearnTK}{/media/learntk.jpg}{/projects/learntk}
+}</code></pre><h2>Source Code</h2>
 <p>The source code for the Blog Builder is currently not publicly available.  However, I plan to make it available publicly under the MIT License in the near future.
 
 </body>
