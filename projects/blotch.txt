@@ -30,7 +30,7 @@
 
 # Hardware
 
-~ Our robot's hardware primarily consisted 
+~ Our robot's hardware primarily consisted of a front-mounted ball collection mechanism as well as two 3D printed spiral towers in order to store the balls collected.
 
 # Software
 
