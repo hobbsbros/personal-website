@@ -16,7 +16,7 @@
 
 ~ I summarized the vast majority of the mathematical model required for RSVLM in the PDF whitepaper linked below.
 
-\href{RSVLM Whitepaper}{documents/'RSVLM Whitepaper'.pdf}
+\href{RSVLM Whitepaper}{/documents/'RSVLM Whitepaper'.pdf}
 
 # What's in a Name?
 
