@@ -88,7 +88,7 @@ div.tiles {
     flex-wrap: wrap;
 }
 
-a.tile {
+div.tile {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -106,12 +106,12 @@ a.tile {
     font-weight: 600;
 }
 
-a.tile:hover {
+div.tile:hover {
     transition: 0.4s;
     filter: brightness(1.5);
 }
 
-a.tile .desc {
+div.tile .desc {
     font-family: "EB Garamond", serif;
     font-size: 24px;
 }
@@ -145,7 +145,7 @@ div.menu a:hover {
     transition: 0.4s;
 }
 
-a.tile {
+div.tile {
     background-color: white;
 }
 
