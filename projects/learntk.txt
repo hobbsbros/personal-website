@@ -22,7 +22,7 @@
 
 ~ Using a neural network of three hidden layers and a learning rate of 0.03, I trained LearnTK on the \href{IRIS dataset}{https://archive.ics.uci.edu/dataset/53/iris}, a very simple dataset consisting of information about three subspecies of \it{Iris} flowers.  The following plot shows mean training cost per epoch for 1,000 epochs.
 
-\img{/media/learntk-cost.png}{LearnTK Cost per Epoch}
+\img{/media/learntk-cost.png}{LearnTK Cost per Epoch}{400}
 
 # Source Code
 
