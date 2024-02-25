@@ -9,6 +9,7 @@
 ~ Below is a collection of the projects I've worked on in the classroom.
 
 \tiles{
+    \tile{Blotch}{/media/blotch.png}{/projects/blotch}
     \tile{BWB}{/media/bwb.jpg}{/projects/bwb}
 }
 

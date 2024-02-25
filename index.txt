@@ -10,6 +10,7 @@
 
 \tiles{
     \tile{BWB}{/media/bwb.jpg}{/projects/bwb}
+    \tile{Blotch}{/media/blotch.png}{/projects/blotch}
 }
 
 # Independent Projects
