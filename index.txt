@@ -9,8 +9,8 @@
 ~ Here are some interesting engineering and design projects I've worked on in school that I found fascinating.
 
 \tiles{
-    \tile{BWB}{/media/bwb.jpg}{/projects/bwb}
-    \tile{Blotch}{/media/blotch.png}{/projects/blotch}
+    \tiledesc{BWB}{An airplane I made}{/media/bwb.jpg}{/projects/bwb}
+    \tiledesc{Blotch}{A robot I made}{/media/blotch.png}{/projects/blotch}
 }
 
 # Independent Projects

@@ -111,6 +111,12 @@ a.tile:hover {
     filter: brightness(1.5);
 }
 
+a.tile .desc {
+    font-family: "EB Garamond", serif;
+    font-style: italic;
+    font-size: 24px;
+}
+
 div.menu {
     position: sticky;
     display: flex;
