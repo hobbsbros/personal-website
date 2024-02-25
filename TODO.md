@@ -14,7 +14,7 @@
 ## Project Pages
 [ ] Write Argentum Finance page
 [x] Write Blog Builder page
-[ ] Write Blotch page
+[x] Write Blotch page
 [x] Write Boron page
 [x] Write BWB page
 [x] Write Carlo page
