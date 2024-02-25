@@ -149,6 +149,12 @@ div.tile {
     background-color: white;
 }
 
+.tile div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
 h6.footer {
     background-color: white;
 }
