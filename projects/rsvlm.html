@@ -17,11 +17,15 @@
     <a href="/contact">Contact</a>
 </div>
 
-<h6 class="last-updated-date">Last Updated Friday, February 23, 2024</h6>
+<h6 class="last-updated-date">Last Updated Sunday, February 25, 2024</h6>
 
 <p>In the fall of my junior year of college, I had the privilege of taking MIT's undergraduate aerodynamics course (known to my fellow students simply as 16.100 or "sixteen one hundred") taught by MIT Professor Qiqi Wang.
-<p>During the course, we learned extensively about models for aircraft drag...
-<p>Furthermore, we made extensive use of AVL (Athena Vortex Lattice), a program developed about thirty years ago by MIT Professor Mark Drela.
+<p>During the course, we learned about models for aircraft drag, and a significant portion of the course was dedicated to the study of inviscid models of induced drag based on a vortex lattice model.  For this purpose, we made extensive use of AVL (Athena Vortex Lattice), a program developed about thirty years ago by MIT Professor Mark Drela.
+<p>Intrigued by this approach, I decided I wanted to write my own program for analyzing the vorticity around an aircraft wing in order to learn more about the internal processes required.  Over the course of two or three days, after investigating the mathematical model required, I developed the bulk of this program in the Rust programming language, and RSVLM was born.<h2>Whitepaper</h2>
+<p>I summarized the vast majority of the mathematical model required for RSVLM in the PDF whitepaper linked below. <a href="documents/'RSVLM Whitepaper'.pdf">RSVLM Whitepaper</a> <h2>What's in a Name?</h2>
+<p>RSVLM is a simple acronym constructed from both its construction and its purpose.  I derived RS from the Rust programming language in which the program is written, and I derived VLM from Vortex Lattice Model, which descibes its purpose.<h2>Credits</h2>
+<p>Thanks to MIT Professor Qiqi Wang for teaching vortex lattice models in 16.100.
+<p>Thanks to MIT Professor Mark Drela for writing and documenting AVL, which inspired RSVLM.
 
 </body>
 </html>
