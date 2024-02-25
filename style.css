@@ -111,7 +111,7 @@ div.tile:hover {
     filter: brightness(1.5);
 }
 
-div.tile .desc {
+.desc {
     font-family: "EB Garamond", serif;
     font-size: 24px;
 }
