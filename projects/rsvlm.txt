@@ -12,11 +12,7 @@
 
 ~ Intrigued by this approach, I decided I wanted to write my own program for analyzing the vorticity around an aircraft wing in order to learn more about the internal processes required.  Over the course of two or three days, after investigating the mathematical model required, I developed the bulk of this program in the Rust programming language, and RSVLM was born.
 
-# Whitepaper
-
-~ I summarized the vast majority of the mathematical model required for RSVLM in the PDF whitepaper linked below.
-
-~ \href{RSVLM Whitepaper}{/documents/RSVLM Whitepaper.pdf}
+~ More information will be coming soon about the RSVLM program, including information about its mathematical model.
 
 # What's in a Name?
 
