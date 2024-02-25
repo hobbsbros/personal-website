@@ -18,8 +18,9 @@
 ~ These are some of my favorite independent projects.
 
 \tiles{
-    \tile{Carlo}{/media/code.jpg}{/projects/carlo}
-    \tile{Boron}{/media/code.jpg}{/projects/boron}
-    \tile{Blog Builder}{/media/code.jpg}{/projects/blog-builder}
-    \tile{LearnTK}{/media/learntk.jpg}{/projects/learntk}
+    \tiledesc{Carlo}{A simple interpreted programming language}{/media/code.jpg}{/projects/carlo}
+    \tiledesc{Boron}{}{/media/code.jpg}{/projects/boron}
+    \tiledesc{Blog Builder}{}{/media/code.jpg}{/projects/blog-builder}
+    \tiledesc{RSVLM}{}{/media/vlm-wing.jpg}{/projects/rsvlm}
+    \tiledesc{LearnTK}{}{/media/learntk.jpg}{/projects/learntk}
 }
