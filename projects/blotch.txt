@@ -26,7 +26,7 @@
 
 ~ See below for an image of the final CAD.
 
-\img{/media/blotch.png}{Blotch}{400}
+\img{/media/blotch-example.png}{Blotch}{400}
 
 # Hardware
 
