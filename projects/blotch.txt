@@ -48,13 +48,13 @@
 
 ~ The TAMProxy source code is available freely on GitHub at the following link.
 
-\href{https://github.com/maslab/tamproxy-firmware}{https://github.com/maslab/tamproxy-firmware}
+~ \href{https://github.com/maslab/tamproxy-firmware}{https://github.com/maslab/tamproxy-firmware}
 
 # MASLAB Website
 
 ~ More information about Blotch can be found on the MIT MASLAB Competitor's Wiki at the link below.
 
-\href{https://maslab.mit.edu/2022/wiki/team03}{https://maslab.mit.edu/2022/wiki/team03}
+~ \href{https://maslab.mit.edu/2022/wiki/team03}{https://maslab.mit.edu/2022/wiki/team03}
 
 # Credits
 
