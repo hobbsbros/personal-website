@@ -10,7 +10,7 @@
 
 ~ I read through the exercises contained in the book and quickly taught myself Python.  Little did I know that I would be using it in my college computer science class just a few years later.
 
-~ From the beginning, I was fascinated by Python's elegant, simple, and readable syntax.  I always wondered if it was possible for me to develop my own computer language... but as a young boy I had no idea the great effort involved in developing and maintaining a programming language.
+~ From the beginning, I was fascinated by Python's elegant, simple, and readable syntax.  I always wondered if it was possible for me to develop my own computer language... but as a young boy I knew nothing of the great effort involved in developing and maintaining a programming language.
 
 ~ Six years later, after much Internet research and time spent at my laptop, I successfully developed my first programming language: Boron.
 
