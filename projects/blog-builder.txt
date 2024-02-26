@@ -34,4 +34,6 @@
 
 # Source Code
 
-~ The source code for the Blog Builder is currently not publicly available.  However, I plan to make it available publicly under the MIT License in the near future.
+~ The source code for the Blog Builder is publicly available and licensed under the MIT License.  Below is the link to its GitHub repository.
+
+~ \href{https://github.com/hobbsbros/blog-builder}{https://github.com/hobbsbros/blog-builder}
