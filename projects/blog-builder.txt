@@ -12,9 +12,9 @@
 
 ~ When I was in high school, I would start two other websites: one a fitness blog for my high school's Junior ROTC program and another as a project for my class on Contemporary Issues.
 
-~ During my time in college, as I became more proficient in programming, I discovered that I didn't like services like WordPress and Blogger.  I found that they had too many unnecessary features and too few features that I actually wanted.  Furthermore, I didn't like my inability to manage URL structure or page layout as I desired.
+~ During my time in college, as I became more proficient in programming, I discovered that I didn't like services like WordPress and Blogger.  I found that they had too many unnecessary features and too few features that I actually wanted.  Furthermore, I didn't like my inability to manage URL structure or page layout as I desired.  For these reasons, I began developing my own web framework, called the Blog Builder.
 
-~ For these reasons, I began developing my own web framework, called the Blog Builder.  Because this website is maanged by the Blog Builder, this catalog of my projects is itself one of my projects.
+~ This website is itself managed by the Blog Builder's web framework, which makes this catalog of my projects itself one of my projects.
 
 # Development
 
