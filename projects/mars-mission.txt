@@ -5,3 +5,5 @@
 \menu
 
 \date
+
+~ In the fall of my junior year of college, I had the pleasure of taking MIT's undergraduate course in dynamics for aerospace applications (commonly known among students as 16.07 or "sixteen oh seven").  The final project for this course involved the trajectory planning for a manned mission to Mars.
