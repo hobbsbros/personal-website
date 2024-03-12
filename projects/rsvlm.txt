@@ -18,6 +18,12 @@
 
 ~ RSVLM is a simple acronym constructed from both its construction and its purpose.  I derived RS from the Rust programming language in which the program is written, and I derived VLM from Vortex Lattice Model, which descibes its purpose.
 
+# Source Code
+
+~ The source code for RSVLM is open and available on GitHub, and its source code is licensed under the MIT License.
+
+~ \href{https://github.com/hobbsbros/rsvlm}{https://github.com/hobbsbros/rsvlm}
+
 # Credits
 
 ~ Thanks to MIT Professor Qiqi Wang for teaching vortex lattice models in 16.100.
