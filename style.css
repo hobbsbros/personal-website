@@ -194,7 +194,7 @@
     body {
         background-color: white;
         margin: 0% 5%;
-        font-size: 48px;
+        font-size: 54px;
         font-family: "EB Garamond", serif;
         padding-bottom: 80px;
     }
@@ -264,7 +264,7 @@
     }
 
     p {
-        line-height: 72px;
+        line-height: 96px;
         margin-bottom: 42px;
     }
 
