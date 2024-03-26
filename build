@@ -6,4 +6,5 @@
 blog build . \
     --sitename "Joseph R. Hobbs" \
     --menu menu.html \
-    --style tech
+    --style tech \
+    --icon
