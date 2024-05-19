@@ -1,0 +1,13 @@
+\pagename{Blended Wing Body}
+
+\header{Blended Wing Body}
+
+\menu
+
+\date
+
+~ During the spring semester of my junior year in undergraduate, I took the space systems development 
+
+# Credits
+
+~ A huge thank you to my project teammates: Cesar Meza, Pablo Arroyo, and Tomas Cantu.  Their dedication to our project was unparalleled and the quality of the work they accomplished was truly incredible.  And aside from their technical contributions to the project, their presence and contribution to the team as individuals was vital and irreplaceable.
