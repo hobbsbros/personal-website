@@ -8,9 +8,9 @@
 
 \floating{/media/me.jpg}{Joseph having breakfast}
 
-~ Hello!  My name is Joseph Hobbs and I am a junior undergraduate at MIT (class of 2025) studying Aerospace Engineering (known among MIT students as Course 16).
+~ Hello!  My name is Joseph Hobbs and I am a rising senior undergraduate at MIT (class of 2025) studying Aerospace Engineering (known among MIT students as Course 16).
 
-~ Academically, I have special interest in aerodynamics, structural mechanics, numerical simulation, software development, and electrical circuit design.  I also enjoy designing things in Fusion 360 and programming in Python 3 or Rust.
+~ Academically, I have special interest in electrical and electronics engineering, structural mechanics, aerodynamics, numerical simulation, and software development.  I also enjoy designing things in Fusion 360 and programming in Python 3 or Rust.
 
 ~ I'm a cadet in the Army ROTC and plan to commission into the U.S. Army Reserves in May 2025.  Looking ahead to the future, I hope to work for a civilian engineering firm full-time while fulfilling my service obligation to the U.S. Army Reserves as a Cyber officer.
 

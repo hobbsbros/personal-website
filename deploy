@@ -4,7 +4,7 @@
 # Deploy Script
 
 # Recompile site
-sh build
+./build
 
 # Stage changes for commit
 git add .
