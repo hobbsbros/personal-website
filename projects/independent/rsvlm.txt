@@ -14,6 +14,8 @@
 
 ~ More information will be coming soon about the RSVLM program, including information about its mathematical model.
 
+~ TODO
+
 # What's in a Name?
 
 ~ RSVLM is a simple acronym constructed from both its construction and its purpose.  I derived RS from the Rust programming language in which the program is written, and I derived VLM from Vortex Lattice Model, which descibes its purpose.
