@@ -12,7 +12,7 @@
     \tiledesc{BWB}{High efficiency aircraft}{/media/bwb.jpg}{/projects/academic/bwb}
     \tiledesc{Blotch}{Autonomous robot}{/media/blotch.png}{/projects/academic/blotch}
     \tiledesc{GEORGE}{Mission to Europa}{/media/europa.jpg}{/projects/academic/george}
-    \tiledesc{CASCADE}{CubeSat-compliant probe}{/media/satellite.png}{/projects/academic/cascade}
+    \tiledesc{CASCADE}{CubeSat-compliant probe}{/media/earth.jpg}{/projects/academic/cascade}
     \tiledesc{Mars Mission}{Orbital path planning}{/media/mars-orbit.png}{/projects/academic/mars-mission}
 }
 
