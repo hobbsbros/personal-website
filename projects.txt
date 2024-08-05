@@ -16,6 +16,14 @@
     \tiledesc{Mars Mission}{Orbital path planning}{/media/mars-orbit.jpg}{/projects/academic/mars-mission}
 }
 
+# Work Projects
+
+~ Below are the open-source projects I've worked on while under employment.
+
+\tiles{
+    \tiledesc{Proton}{Wi-Fi access point library}{/media/wifi.png}{/projects/work/proton}
+}
+
 # Independent Projects
 
 ~ Below are a number of projects I've worked on outside of the academic environment.
