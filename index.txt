@@ -11,9 +11,9 @@
 \tiles{
     \tiledesc{BWB}{High efficiency aircraft}{/media/bwb.jpg}{/projects/academic/bwb}
     \tiledesc{Blotch}{Autonomous robot}{/media/blotch.png}{/projects/academic/blotch}
-    \tiledesc{GEORGE}{Mission to Europa}{/media/europa.png}{/projects/academic/george}
+    \tiledesc{GEORGE}{Mission to Europa}{/media/europa.jpg}{/projects/academic/george}
     \tiledesc{CASCADE}{CubeSat-compliant probe}{/media/satellite.png}{/projects/academic/cascade}
-    \tiledesc{Mars Mission}{Orbital path planning}{/media/mars.png}{/projects/academic/mars-mission}
+    \tiledesc{Mars Mission}{Orbital path planning}{/media/mars-orbit.png}{/projects/academic/mars-mission}
 }
 
 # Independent Projects

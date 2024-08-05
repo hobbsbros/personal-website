@@ -6,34 +6,14 @@
 
 # Academic Projects
 
-
-
-\tiles{
-    \tiledesc{Blotch}{Autonomous robot}{/media/blotch.png}{/projects/academic/blotch}
-    \tiledesc{BWB}{High efficiency aircraft}{/media/bwb.jpg}{/projects/academic/bwb}
-}
-
-# Independent Projects
-
-
-\tiles{
-    \tiledesc{Blog Builder}{Static web framework}{/media/code.jpg}{/projects/independent/blog-builder}
-    \tiledesc{Boron}{Compiled programming language}{/media/code.jpg}{/projects/independent/boron}
-    \tiledesc{Carlo}{Interpreted programming language}{/media/code.jpg}{/projects/independent/carlo}
-    \tiledesc{LearnTK}{Neural network}{/media/learntk.jpg}{/projects/independent/learntk}
-    \tiledesc{RSVLM}{Inviscid aerodynamic model}{/media/vlm-wing.jpg}{/projects/independent/rsvlm}
-}
-
-# Academic Projects
-
 ~ Below is a collection of the projects I've worked on in the classroom.
 
 \tiles{
-    \tiledesc{BWB}{High efficiency aircraft}{/media/bwb.jpg}{/projects/academic/bwb}
     \tiledesc{Blotch}{Autonomous robot}{/media/blotch.png}{/projects/academic/blotch}
-    \tiledesc{GEORGE}{Mission to Europa}{/media/europa.png}{/projects/academic/george}
-    \tiledesc{CASCADE}{CubeSat-compliant probe}{/media/satellite.png}{/projects/academic/cascade}
-    \tiledesc{Mars Mission}{Orbital path planning}{/media/mars.png}{/projects/academic/mars-mission}
+    \tiledesc{BWB}{High efficiency aircraft}{/media/bwb.jpg}{/projects/academic/bwb}
+    \tiledesc{CASCADE}{CubeSat-compliant probe}{/media/earth.jpg}{/projects/academic/cascade}
+    \tiledesc{GEORGE}{Mission to Europa}{/media/europa.jpg}{/projects/academic/george}
+    \tiledesc{Mars Mission}{Orbital path planning}{/media/mars-orbit.png}{/projects/academic/mars-mission}
 }
 
 # Independent Projects
@@ -41,11 +21,11 @@
 ~ Below are a number of projects I've worked on outside of the academic environment.
 
 \tiles{
-    \tiledesc{Carlo}{Interpreted programming language}{/media/code.jpg}{/projects/independent/carlo}
-    \tiledesc{Boron}{Compiled programming language}{/media/code.jpg}{/projects/independent/boron}
     \tiledesc{Blog Builder}{Static web framework}{/media/code.jpg}{/projects/independent/blog-builder}
-    \tiledesc{RSVLM}{Inviscid aerodynamic model}{/media/vlm-wing.jpg}{/projects/independent/rsvlm}
+    \tiledesc{Boron}{Compiled programming language}{/media/code.jpg}{/projects/independent/boron}
+    \tiledesc{Carlo}{Interpreted programming language}{/media/code.jpg}{/projects/independent/carlo}
     \tiledesc{LearnTK}{Neural network}{/media/learntk.jpg}{/projects/independent/learntk}
+    \tiledesc{RSVLM}{Inviscid aerodynamic model}{/media/vlm-wing.jpg}{/projects/independent/rsvlm}
 }
 
 # Interest Items
