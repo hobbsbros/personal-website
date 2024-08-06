@@ -16,7 +16,7 @@
 
 ~ The source code for EZWordle is open and available on GitHub.  EZWordle's source code is licensed under the MIT License.
 
-~ \href{https://github.com/hobbsbros/ezwordle}{https://github.com/hobbsbros/ezwordle}
+~ \href{https://github.com/josephrhobbs/ezwordle}{https://github.com/josephrhobbs/ezwordle}
 
 # Credits
 

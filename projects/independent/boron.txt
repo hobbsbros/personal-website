@@ -46,4 +46,4 @@
 
 ~ The Boron compiler is completely open-source and licensed under the MIT License.  Its source code is available on GitHub.
 
-~ \href{https://github.com/hobbsbros/boron}{https://github.com/hobbsbros/boron}
+~ \href{https://github.com/josephrhobbs/boron}{https://github.com/josephrhobbs/boron}

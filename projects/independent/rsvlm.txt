@@ -24,7 +24,7 @@
 
 ~ The source code for RSVLM is open and available on GitHub, and its source code is licensed under the MIT License.
 
-~ \href{https://github.com/hobbsbros/rsvlm}{https://github.com/hobbsbros/rsvlm}
+~ \href{https://github.com/josephrhobbs/rsvlm}{https://github.com/josephrhobbs/rsvlm}
 
 # Credits
 

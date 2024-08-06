@@ -28,4 +28,4 @@
 
 ~ LearnTK is completely open-source and licensed under the MIT license.  Its source code is available on GitHub.
 
-~ \href{https://github.com/hobbsbros/learntk}{https://github.com/hobbsbros/learntk}
+~ \href{https://github.com/josephrhobbs/learntk}{https://github.com/josephrhobbs/learntk}

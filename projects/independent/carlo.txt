@@ -62,4 +62,4 @@
 
 ~ The Carlo Language is open-source and licensed under the MIT License.  Its source code is available on GitHub.
 
-~ \href{https://github.com/hobbsbros/carlo}{https://github.com/hobbsbros/carlo}
+~ \href{https://github.com/josephrhobbs/carlo}{https://github.com/josephrhobbs/carlo}
