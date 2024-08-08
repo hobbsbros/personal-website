@@ -8,4 +8,4 @@
 
 ~ During the summer following my junior year, I took up an internship at Adom Industries, a start-up based in the Dallas-Fort Worth area in Texas.  As of this writing, the start-up is still in stealth mode, so I oughtn't say exactly what I worked on... but it involved a lot of work with Linux.  So much so that I had to rebuild the Linux kernel several times on my laptop in order to get my project to work.  This started to get me thinking...
 
-~ TODO
+~ Coming soon!
