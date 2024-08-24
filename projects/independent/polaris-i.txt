@@ -1,0 +1,15 @@
+\pagename{Polaris I}
+
+\header{Polaris I}
+
+\menu
+
+\date
+
+~ During the summer following my junior year, I had the excellent opportunity to work an internship at Adom Industries, a small start-up in the Dallas-Fort Worth Metroplex.  As of this writing, the company is still in stealth mode, so I can't quite talk about what they're working on.  However, I will say that my internship involved some work with high-speed PCB design.  This really piqued my interest in computer hardware in general... and so much so that I wanted to learn more about the engineering of hardware for general-purpose computing.
+
+~ As I continued to learn about this, my research became a small personal project: a small, low-cost personal computer based on the Texas Instruments AM623 64-bit processor.  And in this way, the Polaris I personal computer was born.
+
+# Work In Progress
+
+~ This project is a work in progress and more information is coming soon!
