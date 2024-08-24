@@ -14,11 +14,11 @@
 
 # Inspiration
 
-~ Coming soon!
+~ RSVLM was inspired by Prof. Wang's excellent aerodynamics course, as well as the \href{AVL}{https://web.mit.edu/drela/Public/web/avl/} software developed by MIT Professor Mark Drela.  AVL stands for Athena Vortex Lattice, and it uses a vortex lattice model to calculate the aerodynamic performance of aircraft in the incompressible regime.
 
 # Mathematical Model
 
-~ Coming soon!
+~ The mathematical model used by RSVLM is based on an incompressible, inviscid horseshoe vortex lattice.  It models the wing of an aircraft as a collection of panels and associated vortex filaments dissipating vorticity into the downstream air.  RSVLM calculates the strength and direction of each vortex filament in order to determine the aerodynamic pressure on each wing panel and the overall coefficients of lift and drag.
 
 # What's in a Name?
 

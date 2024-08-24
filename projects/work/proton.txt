@@ -76,7 +76,7 @@
 
 # Improvements
 
-~ Adom Industries is the licensor of Proton, and so after the end of my internship, I will no longer be the primary developer of the library.  I may fork the library to my personal GitHub account and continue development out of personal interest, though I don't have any pressing need to do so and therefore this is low on my priority list.
+~ Adom Industries is the licensor of Proton, and as of this writing, I have completed my internship at their company; therefore, I am no longer the primary developer of the library.  I may fork the library to my personal GitHub account and continue development out of personal interest, though I don't have any pressing need to do so and therefore this is low on my priority list.
 
 # Source Code
 
