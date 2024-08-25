@@ -32,6 +32,7 @@
     \tiledesc{Boron}{Compiled programming language}{/media/code.jpg}{/projects/independent/boron}
     \tiledesc{Carlo}{Interpreted programming language}{/media/code.jpg}{/projects/independent/carlo}
     \tiledesc{LearnTK}{Neural network}{/media/learntk.jpg}{/projects/independent/learntk}
+    \tiledesc{Polaris I}{Low-Cost Personal Computer}{/media/computer-hardware.jpg}{/projects/independent/polaris-i}
     \tiledesc{RSVLM}{Inviscid aerodynamic model}{/media/vlm-wing.jpg}{/projects/independent/rsvlm}
 }
 
