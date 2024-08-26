@@ -8,7 +8,7 @@
 
 # Active Projects
 
-~ Here are the really interesting engineering and design projects I'm currently working on!
+~ Here are the interesting engineering and design projects I'm currently working on!
 
 \tiles{
     \tiledesc{Polaris I}{Low-Cost Personal Computer}{/media/computer-hardware.jpg}{/projects/independent/polaris-i}
